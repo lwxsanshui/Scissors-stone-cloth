@@ -1,0 +1,18 @@
+
+body {
+    background-color: aquamarine;
+}
+div {
+    margin-top: 80px;
+    text-align: center;
+}
+#game {
+    background-color: aliceblue;
+    border: 1px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
